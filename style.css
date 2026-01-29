@@ -46,7 +46,7 @@ body {
 
 .dropdown-menu {
     position: absolute;
-    top: 120%;
+    top: 130%;
     left: 50%;
     transform: translateX(-50%);
     background: rgba(255, 166, 0, 0.805);
@@ -332,4 +332,5 @@ body {
         letter-spacing: 2px;
     }
 }
+
 
